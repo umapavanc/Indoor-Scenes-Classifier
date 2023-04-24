@@ -1,1 +1,0 @@
-# Indoor-Scenes-Classifier
